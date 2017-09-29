@@ -5,4 +5,8 @@ Conflict resolved!
 New edit in the master branch!!
 New branch deleted?
 
+
 GitBash conflict...
+
+A couple of new conflicts!
+
