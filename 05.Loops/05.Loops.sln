@@ -1,0 +1,109 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NumbersFrom1To100", "01.NumbersFrom1To100\01.NumbersFrom1To100.csproj", "{6C035420-B3CE-4228-B1B7-949922DA95D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NumbersEndingIn7", "02.NumbersEndingIn7\02.NumbersEndingIn7.csproj", "{EDE827BB-58E7-4A0B-9E3B-B556733A0E86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.LatinLetters", "03.LatinLetters\03.LatinLetters.csproj", "{BB5EC0B4-9528-437A-BD1F-5B688331D9E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfNumbers", "04.SumOfNumbers\04.SumOfNumbers.csproj", "{39E0FF07-C921-404E-9AFA-15F2A2DAC21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaxNumber", "05.MaxNumber\05.MaxNumber.csproj", "{4100FF52-5D78-4FC2-A7F3-C5C5B086A7CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MinNumber", "06.MinNumber\06.MinNumber.csproj", "{AA1D72BF-0628-4183-AE9B-44625BA86B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LeftAndRightSum", "07.LeftAndRightSum\07.LeftAndRightSum.csproj", "{FDD32848-3FE5-41BD-98B1-7E6B7D8A7CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.OddEvenSum", "08.OddEvenSum\08.OddEvenSum.csproj", "{6FF1C5ED-7C55-42D2-AB04-C2FD54958DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.VowelsSum", "09.VowelsSum\09.VowelsSum.csproj", "{0D0BCD09-F710-4D6F-BABC-0D78D11688F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.HalfSumElement", "10.HalfSumElement\10.HalfSumElement.csproj", "{373728E5-F64F-4D9D-99CA-6E8DDC9EFB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.OddEvenPosition", "11.OddEvenPosition\11.OddEvenPosition.csproj", "{CFFBC542-E4F4-4946-8C1A-4D607DAF90B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.EqualPairs", "12.EqualPairs\12.EqualPairs.csproj", "{AE64F506-EF61-4D2F-ABF6-BD49A281901A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.HistogramEXAM", "13.HistogramEXAM\13.HistogramEXAM.csproj", "{BE48292A-B510-49F4-B31A-04909DACCCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.NoRemainderDivisionEXAM", "14.NoRemainderDivisionEXAM\14.NoRemainderDivisionEXAM.csproj", "{198C44D6-7D6A-4B39-AF8B-1D075243A8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.SmartLillyEXAM", "15.SmartLillyEXAM\15.SmartLillyEXAM.csproj", "{737AE994-E5A9-4154-A0D0-96F489A076C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C035420-B3CE-4228-B1B7-949922DA95D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C035420-B3CE-4228-B1B7-949922DA95D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C035420-B3CE-4228-B1B7-949922DA95D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C035420-B3CE-4228-B1B7-949922DA95D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE827BB-58E7-4A0B-9E3B-B556733A0E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE827BB-58E7-4A0B-9E3B-B556733A0E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE827BB-58E7-4A0B-9E3B-B556733A0E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE827BB-58E7-4A0B-9E3B-B556733A0E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5EC0B4-9528-437A-BD1F-5B688331D9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5EC0B4-9528-437A-BD1F-5B688331D9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5EC0B4-9528-437A-BD1F-5B688331D9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5EC0B4-9528-437A-BD1F-5B688331D9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E0FF07-C921-404E-9AFA-15F2A2DAC21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E0FF07-C921-404E-9AFA-15F2A2DAC21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E0FF07-C921-404E-9AFA-15F2A2DAC21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E0FF07-C921-404E-9AFA-15F2A2DAC21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4100FF52-5D78-4FC2-A7F3-C5C5B086A7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4100FF52-5D78-4FC2-A7F3-C5C5B086A7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4100FF52-5D78-4FC2-A7F3-C5C5B086A7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4100FF52-5D78-4FC2-A7F3-C5C5B086A7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1D72BF-0628-4183-AE9B-44625BA86B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1D72BF-0628-4183-AE9B-44625BA86B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1D72BF-0628-4183-AE9B-44625BA86B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1D72BF-0628-4183-AE9B-44625BA86B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD32848-3FE5-41BD-98B1-7E6B7D8A7CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD32848-3FE5-41BD-98B1-7E6B7D8A7CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD32848-3FE5-41BD-98B1-7E6B7D8A7CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD32848-3FE5-41BD-98B1-7E6B7D8A7CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF1C5ED-7C55-42D2-AB04-C2FD54958DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF1C5ED-7C55-42D2-AB04-C2FD54958DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF1C5ED-7C55-42D2-AB04-C2FD54958DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF1C5ED-7C55-42D2-AB04-C2FD54958DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0BCD09-F710-4D6F-BABC-0D78D11688F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0BCD09-F710-4D6F-BABC-0D78D11688F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0BCD09-F710-4D6F-BABC-0D78D11688F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0BCD09-F710-4D6F-BABC-0D78D11688F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373728E5-F64F-4D9D-99CA-6E8DDC9EFB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373728E5-F64F-4D9D-99CA-6E8DDC9EFB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373728E5-F64F-4D9D-99CA-6E8DDC9EFB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373728E5-F64F-4D9D-99CA-6E8DDC9EFB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFBC542-E4F4-4946-8C1A-4D607DAF90B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFBC542-E4F4-4946-8C1A-4D607DAF90B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFBC542-E4F4-4946-8C1A-4D607DAF90B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFBC542-E4F4-4946-8C1A-4D607DAF90B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE64F506-EF61-4D2F-ABF6-BD49A281901A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE64F506-EF61-4D2F-ABF6-BD49A281901A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE64F506-EF61-4D2F-ABF6-BD49A281901A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE64F506-EF61-4D2F-ABF6-BD49A281901A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE48292A-B510-49F4-B31A-04909DACCCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE48292A-B510-49F4-B31A-04909DACCCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE48292A-B510-49F4-B31A-04909DACCCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE48292A-B510-49F4-B31A-04909DACCCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198C44D6-7D6A-4B39-AF8B-1D075243A8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198C44D6-7D6A-4B39-AF8B-1D075243A8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198C44D6-7D6A-4B39-AF8B-1D075243A8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198C44D6-7D6A-4B39-AF8B-1D075243A8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737AE994-E5A9-4154-A0D0-96F489A076C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737AE994-E5A9-4154-A0D0-96F489A076C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737AE994-E5A9-4154-A0D0-96F489A076C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737AE994-E5A9-4154-A0D0-96F489A076C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0367DD9-3D94-4B0C-AEFA-5A40405DABE2}
+	EndGlobalSection
+EndGlobal
